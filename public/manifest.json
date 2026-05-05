@@ -1,0 +1,31 @@
+{
+  "name": "エンジニア・自分語り",
+  "short_name": "エンジニア・自分",
+  "description": "技術と人間性を可視化",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f0ede8",
+  "theme_color": "#8a6030",
+  "orientation": "portrait",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
